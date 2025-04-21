@@ -1,5 +1,6 @@
 # Word Memory Master - Vocabulary Learning Application
-
+# Video Introduction
+https://youtu.be/ud94vIDwhJg?feature=shared
 ## Table of Contents
 - [Project Purpose](#project-purpose)
 - [Features](#features)
