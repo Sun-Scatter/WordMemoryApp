@@ -104,14 +104,11 @@ gantt
 ## Technical Specifications
 
 ### System Architecture
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----         2025/4/21     22:07             66 .gitattributes
--a----         2025/4/21     21:09           3752 main.py
--a----         2025/4/21     21:06              0 README.md
--a----         2025/4/21     21:09              7 requirements.txt
--a----         2025/4/21     21:37          34058 words.json
-
+WordMemoryApp/
+├── main.py             
+├── words.json          
+├── requirements.txt   
+└── README.md           
 ### Dependencies
 | Package | Version | Purpose |
 |---------|---------|---------|
