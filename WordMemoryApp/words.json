@@ -1,0 +1,1399 @@
+[
+    {
+        "word": "apple",
+        "translation": "苹果"
+    },
+    {
+        "word": "banana",
+        "translation": "香蕉"
+    },
+    {
+        "word": "computer",
+        "translation": "电脑"
+    },
+    {
+        "word": "hello",
+        "translation": "你好"
+    },
+    {
+        "word": "thank you",
+        "translation": "谢谢"
+    },
+    {
+        "word": "goodbye",
+        "translation": "再见"
+    },
+    {
+        "word": "book",
+        "translation": "书"
+    },
+    {
+        "word": "pen",
+        "translation": "钢笔"
+    },
+    {
+        "word": "teacher",
+        "translation": "老师"
+    },
+    {
+        "word": "student",
+        "translation": "学生"
+    },
+    {
+        "word": "South Korea",
+        "translation": "韩国"
+    },
+    {
+        "word": "North Korea",
+        "translation": "朝鲜"
+    },
+    {
+        "word": "virtual",
+        "translation": "虚拟的"
+    },
+    {
+            "word": "algorithm",
+            "translation": "算法"
+        },
+        {
+            "word": "database",
+            "translation": "数据库"
+        },
+        {
+            "word": "framework",
+            "translation": "框架"
+        },
+        {
+            "word": "syntax",
+            "translation": "语法"
+        },
+        {
+            "word": "debug",
+            "translation": "调试"
+        },
+        {
+            "word": "repository",
+            "translation": "仓库"
+        },
+        {
+            "word": "terminal",
+            "translation": "终端"
+        },
+        {
+            "word": "compile",
+            "translation": "编译"
+        },
+        {
+            "word": "variable",
+            "translation": "变量"
+        },
+        {
+            "word": "function",
+            "translation": "函数"
+        },
+        {
+            "word": "loop",
+            "translation": "循环"
+        },
+        {
+            "word": "conditional",
+            "translation": "条件语句"
+        },
+        {
+            "word": "object",
+            "translation": "对象"
+        },
+        {
+            "word": "class",
+            "translation": "类"
+        },
+        {
+            "word": "instance",
+            "translation": "实例"
+        },
+        {
+            "word": "inheritance",
+            "translation": "继承"
+        },
+        {
+            "word": "polymorphism",
+            "translation": "多态"
+        },
+        {
+            "word": "encapsulation",
+            "translation": "封装"
+        },
+        {
+            "word": "interface",
+            "translation": "接口"
+        },
+        {
+            "word": "asynchronous",
+            "translation": "异步的"
+        },
+        {
+            "word": "callback",
+            "translation": "回调"
+        },
+        {
+            "word": "promise",
+            "translation": "承诺"
+        },
+        {
+            "word": "API",
+            "translation": "应用程序接口"
+        },
+        {
+            "word": "JSON",
+            "translation": "JavaScript对象表示法"
+        },
+        {
+            "word": "XML",
+            "translation": "可扩展标记语言"
+        },
+        {
+            "word": "HTTP",
+            "translation": "超文本传输协议"
+        },
+        {
+            "word": "HTTPS",
+            "translation": "安全超文本传输协议"
+        },
+        {
+            "word": "URL",
+            "translation": "统一资源定位符"
+        },
+        {
+            "word": "URI",
+            "translation": "统一资源标识符"
+        },
+        {
+            "word": "query",
+            "translation": "查询"
+        },
+        {
+            "word": "parameter",
+            "translation": "参数"
+        },
+        {
+            "word": "argument",
+            "translation": "参数"
+        },
+        {
+            "word": "server",
+            "translation": "服务器"
+        },
+        {
+            "word": "client",
+            "translation": "客户端"
+        },
+        {
+            "word": "request",
+            "translation": "请求"
+        },
+        {
+            "word": "response",
+            "translation": "响应"
+        },
+        {
+            "word": "middleware",
+            "translation": "中间件"
+        },
+        {
+            "word": "authentication",
+            "translation": "认证"
+        },
+        {
+            "word": "authorization",
+            "translation": "授权"
+        },
+        {
+            "word": "session",
+            "translation": "会话"
+        },
+        {
+            "word": "cache",
+            "translation": "缓存"
+        },
+        {
+            "word": "deploy",
+            "translation": "部署"
+        },
+        {
+            "word": "hosting",
+            "translation": "托管"
+        },
+        {
+            "word": "domain",
+            "translation": "域名"
+        },
+        {
+            "word": "DNS",
+            "translation": "域名系统"
+        },
+        {
+            "word": "SSL",
+            "translation": "安全套接层"
+        },
+        {
+            "word": "TLS",
+            "translation": "传输层安全协议"
+        },
+        {
+            "word": "encryption",
+            "translation": "加密"
+        },
+        {
+            "word": "decryption",
+            "translation": "解密"
+        },
+        {
+            "word": "hashing",
+            "translation": "哈希"
+        },
+        {
+            "word": "salt",
+            "translation": "盐值"
+        },
+        {
+            "word": "scalability",
+            "translation": "可扩展性"
+        },
+        {
+            "word": "performance",
+            "translation": "性能"
+        },
+        {
+            "word": "optimization",
+            "translation": "优化"
+        },
+        {
+            "word": "refactoring",
+            "translation": "重构"
+        },
+        {
+            "word": "debugging",
+            "translation": "调试"
+        },
+        {
+            "word": "testing",
+            "translation": "测试"
+        },
+        {
+            "word": "unit test",
+            "translation": "单元测试"
+        },
+        {
+            "word": "integration test",
+            "translation": "集成测试"
+        },
+        {
+            "word": "regression test",
+            "translation": "回归测试"
+        },
+        {
+            "word": "agile",
+            "translation": "敏捷"
+        },
+        {
+            "word": "sprint",
+            "translation": "冲刺"
+        },
+        {
+            "word": "backlog",
+            "translation": "待办事项"
+        },
+        {
+            "word": "user story",
+            "translation": "用户故事"
+        },
+        {
+            "word": "requirement",
+            "translation": "需求"
+        },
+        {
+            "word": "specification",
+            "translation": "规格说明"
+        },
+        {
+            "word": "documentation",
+            "translation": "文档"
+        },
+        {
+            "word": "version control",
+            "translation": "版本控制"
+        },
+        {
+            "word": "commit",
+            "translation": "提交"
+        },
+        {
+            "word": "branch",
+            "translation": "分支"
+        },
+        {
+            "word": "merge",
+            "translation": "合并"
+        },
+        {
+            "word": "pull request",
+            "translation": "拉取请求"
+        },
+        {
+            "word": "clone",
+            "translation": "克隆"
+        },
+        {
+            "word": "fork",
+            "translation": "复刻"
+        },
+        {
+            "word": "repository",
+            "translation": "仓库"
+        },
+        {
+            "word": "remote",
+            "translation": "远程"
+        },
+        {
+            "word": "push",
+            "translation": "推送"
+        },
+        {
+            "word": "pull",
+            "translation": "拉取"
+        },
+        {
+            "word": "stash",
+            "translation": "储藏"
+        },
+        {
+            "word": "rebase",
+            "translation": "变基"
+        },
+        {
+            "word": "conflict",
+            "translation": "冲突"
+        },
+        {
+            "word": "resolve",
+            "translation": "解决"
+        },
+        {
+            "word": "log",
+            "translation": "日志"
+        },
+        {
+            "word": "diff",
+            "translation": "差异"
+        },
+        {
+            "word": "tag",
+            "translation": "标签"
+        },
+        {
+            "word": "release",
+            "translation": "发布"
+        },
+        {
+            "word": "rollback",
+            "translation": "回滚"
+        },
+        {
+            "word": "continuous integration",
+            "translation": "持续集成"
+        },
+        {
+            "word": "continuous deployment",
+            "translation": "持续部署"
+        },
+        {
+            "word": "pipeline",
+            "translation": "流水线"
+        },
+        {
+            "word": "artifact",
+            "translation": "制品"
+        },
+        {
+            "word": "environment",
+            "translation": "环境"
+        },
+        {
+            "word": "development",
+            "translation": "开发"
+        },
+        {
+            "word": "staging",
+            "translation": "预发布"
+        },
+        {
+            "word": "production",
+            "translation": "生产"
+        },
+        {
+            "word": "monitoring",
+            "translation": "监控"
+        },
+        {
+            "word": "logging",
+            "translation": "日志记录"
+        },
+        {
+            "word": "alert",
+            "translation": "警报"
+        },
+        {
+            "word": "dashboard",
+            "translation": "仪表盘"
+        },
+        {
+            "word": "metric",
+            "translation": "指标"
+        },
+        {
+            "word": "analytics",
+            "translation": "分析"
+        },
+        {
+            "word": "incident",
+            "translation": "事件"
+        },
+        {
+            "word": "response",
+            "translation": "响应"
+        },
+        {
+            "word": "resolution",
+            "translation": "解决"
+        },
+        {
+            "word": "root cause",
+            "translation": "根本原因"
+        },
+        {
+            "word": "postmortem",
+            "translation": "事后分析"
+        },
+        {
+            "word": "on-call",
+            "translation": "待命"
+        },
+        {
+            "word": "SLA",
+            "translation": "服务级别协议"
+        },
+        {
+            "word": "SLO",
+            "translation": "服务级别目标"
+        },
+        {
+            "word": "SLI",
+            "translation": "服务级别指标"
+        },
+        {
+            "word": "latency",
+            "translation": "延迟"
+        },
+        {
+            "word": "throughput",
+            "translation": "吞吐量"
+        },
+        {
+            "word": "availability",
+            "translation": "可用性"
+        },
+        {
+            "word": "reliability",
+            "translation": "可靠性"
+        },
+        {
+            "word": "scalability",
+            "translation": "可扩展性"
+        },
+        {
+            "word": "resilience",
+            "translation": "弹性"
+        },
+        {
+            "word": "fault tolerance",
+            "translation": "容错"
+        },
+        {
+            "word": "redundancy",
+            "translation": "冗余"
+        },
+        {
+            "word": "backup",
+            "translation": "备份"
+        },
+        {
+            "word": "disaster recovery",
+            "translation": "灾难恢复"
+        },
+        {
+            "word": "high availability",
+            "translation": "高可用性"
+        },
+        {
+            "word": "load balancing",
+            "translation": "负载均衡"
+        },
+        {
+            "word": "cluster",
+            "translation": "集群"
+        },
+        {
+            "word": "node",
+            "translation": "节点"
+        },
+        {
+            "word": "orchestration",
+            "translation": "编排"
+        },
+        {
+            "word": "container",
+            "translation": "容器"
+        },
+        {
+            "word": "service",
+            "translation": "服务"
+        },
+        {
+            "word": "deployment",
+            "translation": "部署"
+        },
+        {
+            "word": "replica",
+            "translation": "副本"
+        },
+        {
+            "word": "autoscaling",
+            "translation": "自动扩展"
+        },
+        {
+            "word": "configuration",
+            "translation": "配置"
+        },
+        {
+            "word": "secret",
+            "translation": "密钥"
+        },
+        {
+            "word": "volume",
+            "translation": "卷"
+        },
+        {
+            "word": "persistence",
+            "translation": "持久化"
+        },
+        {
+            "word": "stateful",
+            "translation": "有状态的"
+        },
+        {
+            "word": "stateless",
+            "translation": "无状态的"
+        },
+        {
+            "word": "microservice",
+            "translation": "微服务"
+        },
+        {
+            "word": "monolith",
+            "translation": "单体"
+        },
+        {
+            "word": "API gateway",
+            "translation": "API网关"
+        },
+        {
+            "word": "service mesh",
+            "translation": "服务网格"
+        },
+        {
+            "word": "event-driven",
+            "translation": "事件驱动"
+        },
+        {
+            "word": "message queue",
+            "translation": "消息队列"
+        },
+        {
+            "word": "pub/sub",
+            "translation": "发布/订阅"
+        },
+        {
+            "word": "streaming",
+            "translation": "流式"
+        },
+        {
+            "word": "batch",
+            "translation": "批处理"
+        },
+        {
+            "word": "ETL",
+            "translation": "提取转换加载"
+        },
+        {
+            "word": "data pipeline",
+            "translation": "数据流水线"
+        },
+        {
+            "word": "warehouse",
+            "translation": "仓库"
+        },
+        {
+            "word": "lake",
+            "translation": "湖"
+        },
+        {
+            "word": "processing",
+            "translation": "处理"
+        },
+        {
+            "word": "mining",
+            "translation": "挖掘"
+        },
+        {
+            "word": "visualization",
+            "translation": "可视化"
+        },
+        {
+            "word": "dashboard",
+            "translation": "仪表盘"
+        },
+        {
+            "word": "report",
+            "translation": "报告"
+        },
+        {
+            "word": "insight",
+            "translation": "洞察"
+        },
+        {
+            "word": "machine learning",
+            "translation": "机器学习"
+        },
+        {
+            "word": "deep learning",
+            "translation": "深度学习"
+        },
+        {
+            "word": "neural network",
+            "translation": "神经网络"
+        },
+        {
+            "word": "training",
+            "translation": "训练"
+        },
+        {
+            "word": "inference",
+            "translation": "推理"
+        },
+        {
+            "word": "model",
+            "translation": "模型"
+        },
+        {
+            "word": "feature",
+            "translation": "特征"
+        },
+        {
+            "word": "label",
+            "translation": "标签"
+        },
+        {
+            "word": "dataset",
+            "translation": "数据集"
+        },
+        {
+            "word": "accuracy",
+            "translation": "准确率"
+        },
+        {
+            "word": "precision",
+            "translation": "精确率"
+        },
+        {
+            "word": "recall",
+            "translation": "召回率"
+        },
+        {
+            "word": "F1 score",
+            "translation": "F1分数"
+        },
+        {
+            "word": "overfitting",
+            "translation": "过拟合"
+        },
+        {
+            "word": "underfitting",
+            "translation": "欠拟合"
+        },
+        {
+            "word": "validation",
+            "translation": "验证"
+        },
+        {
+            "word": "testing",
+            "translation": "测试"
+        },
+        {
+            "word": "hyperparameter",
+            "translation": "超参数"
+        },
+        {
+            "word": "optimization",
+            "translation": "优化"
+        },
+        {
+            "word": "gradient descent",
+            "translation": "梯度下降"
+        },
+        {
+            "word": "backpropagation",
+            "translation": "反向传播"
+        },
+        {
+            "word": "epoch",
+            "translation": "轮次"
+        },
+        {
+            "word": "batch",
+            "translation": "批次"
+        },
+        {
+            "word": "loss",
+            "translation": "损失"
+        },
+        {
+            "word": "activation",
+            "translation": "激活"
+        },
+        {
+            "word": "layer",
+            "translation": "层"
+        },
+        {
+            "word": "input",
+            "translation": "输入"
+        },
+        {
+            "word": "output",
+            "translation": "输出"
+        },
+        {
+            "word": "hidden",
+            "translation": "隐藏"
+        },
+        {
+            "word": "convolution",
+            "translation": "卷积"
+        },
+        {
+            "word": "pooling",
+            "translation": "池化"
+        },
+        {
+            "word": "dropout",
+            "translation": "丢弃"
+        },
+        {
+            "word": "regularization",
+            "translation": "正则化"
+        },
+        {
+            "word": "bias",
+            "translation": "偏差"
+        },
+        {
+            "word": "variance",
+            "translation": "方差"
+        },
+        {
+            "word": "ensemble",
+            "translation": "集成"
+        },
+        {
+            "word": "boosting",
+            "translation": "提升"
+        },
+        {
+            "word": "bagging",
+            "translation": "装袋"
+        },
+        {
+            "word": "random forest",
+            "translation": "随机森林"
+        },
+        {
+            "word": "decision tree",
+            "translation": "决策树"
+        },
+        {
+            "word": "support vector machine",
+            "translation": "支持向量机"
+        },
+        {
+            "word": "k-means",
+            "translation": "K均值"
+        },
+        {
+            "word": "clustering",
+            "translation": "聚类"
+        },
+        {
+            "word": "dimensionality reduction",
+            "translation": "降维"
+        },
+        {
+            "word": "PCA",
+            "translation": "主成分分析"
+        },
+        {
+            "word": "t-SNE",
+            "translation": "t分布随机邻域嵌入"
+        },
+        {
+            "word": "natural language processing",
+            "translation": "自然语言处理"
+        },
+        {
+            "word": "tokenization",
+            "translation": "分词"
+        },
+        {
+            "word": "stemming",
+            "translation": "词干提取"
+        },
+        {
+            "word": "lemmatization",
+            "translation": "词形还原"
+        },
+        {
+            "word": "stop word",
+            "translation": "停用词"
+        },
+        {
+            "word": "bag of words",
+            "translation": "词袋"
+        },
+        {
+            "word": "TF-IDF",
+            "translation": "词频-逆文档频率"
+        },
+        {
+            "word": "word embedding",
+            "translation": "词嵌入"
+        },
+        {
+            "word": "attention",
+            "translation": "注意力"
+        },
+        {
+            "word": "self-attention",
+            "translation": "自注意力"
+        },
+        {
+            "word": "sequence",
+            "translation": "序列"
+        },
+        {
+            "word": "RNN",
+            "translation": "循环神经网络"
+        },
+        {
+            "word": "LSTM",
+            "translation": "长短期记忆"
+        },
+        {
+            "word": "GRU",
+            "translation": "门控循环单元"
+        },
+        {
+            "word": "encoder",
+            "translation": "编码器"
+        },
+        {
+            "word": "decoder",
+            "translation": "解码器"
+        },
+        {
+            "word": "generation",
+            "translation": "生成"
+        },
+        {
+            "word": "translation",
+            "translation": "翻译"
+        },
+        {
+            "word": "summarization",
+            "translation": "摘要"
+        },
+        {
+            "word": "sentiment analysis",
+            "translation": "情感分析"
+        },
+        {
+            "word": "named entity recognition",
+            "translation": "命名实体识别"
+        },
+        {
+            "word": "part-of-speech tagging",
+            "translation": "词性标注"
+        },
+        {
+            "word": "dependency parsing",
+            "translation": "依存句法分析"
+        },
+        {
+            "word": "constituency parsing",
+            "translation": "成分句法分析"
+        },
+        {
+            "word": "coreference resolution",
+            "translation": "共指消解"
+        },
+        {
+            "word": "question answering",
+            "translation": "问答"
+        },
+        {
+            "word": "chatbot",
+            "translation": "聊天机器人"
+        },
+        {
+            "word": "voice assistant",
+            "translation": "语音助手"
+        },
+        {
+            "word": "speech recognition",
+            "translation": "语音识别"
+        },
+        {
+            "word": "text-to-speech",
+            "translation": "文本转语音"
+        },
+        {
+            "word": "speech-to-text",
+            "translation": "语音转文本"
+        },
+        {
+            "word": "optical character recognition",
+            "translation": "光学字符识别"
+        },
+        {
+            "word": "computer vision",
+            "translation": "计算机视觉"
+        },
+        {
+            "word": "image classification",
+            "translation": "图像分类"
+        },
+        {
+            "word": "object detection",
+            "translation": "目标检测"
+        },
+        {
+            "word": "segmentation",
+            "translation": "分割"
+        },
+        {
+            "word": "instance segmentation",
+            "translation": "实例分割"
+        },
+        {
+            "word": "semantic segmentation",
+            "translation": "语义分割"
+        },
+        {
+            "word": "pose estimation",
+            "translation": "姿态估计"
+        },
+        {
+            "word": "facial recognition",
+            "translation": "人脸识别"
+        },
+        {
+            "word": "edge detection",
+            "translation": "边缘检测"
+        },
+        {
+            "word": "feature extraction",
+            "translation": "特征提取"
+        },
+        {
+            "word": "template matching",
+            "translation": "模板匹配"
+        },
+        {
+            "word": "motion tracking",
+            "translation": "运动跟踪"
+        },
+        {
+            "word": "3D reconstruction",
+            "translation": "三维重建"
+        },
+        {
+            "word": "augmented reality",
+            "translation": "增强现实"
+        },
+        {
+            "word": "virtual reality",
+            "translation": "虚拟现实"
+        },
+        {
+            "word": "mixed reality",
+            "translation": "混合现实"
+        },
+        {
+            "word": "GPU",
+            "translation": "图形处理器"
+        },
+        {
+            "word": "TPU",
+            "translation": "张量处理器"
+        },
+        {
+            "word": "OpenCL",
+            "translation": "OpenCL"
+        },
+        {
+            "word": "parallel computing",
+            "translation": "并行计算"
+        },
+        {
+            "word": "distributed computing",
+            "translation": "分布式计算"
+        },
+        {
+            "word": "cloud computing",
+            "translation": "云计算"
+        },
+        {
+            "word": "serverless",
+            "translation": "无服务器"
+        },
+        {
+            "word": "function as a service",
+            "translation": "函数即服务"
+        },
+        {
+            "word": "platform as a service",
+            "translation": "平台即服务"
+        },
+        {
+            "word": "infrastructure as a service",
+            "translation": "基础设施即服务"
+        },
+        {
+            "word": "software as a service",
+            "translation": "软件即服务"
+        },
+        {
+            "word": "edge computing",
+            "translation": "边缘计算"
+        },
+        {
+            "word": "fog computing",
+            "translation": "雾计算"
+        },
+        {
+            "word": "quantum computing",
+            "translation": "量子计算"
+        },
+        {
+            "word": "blockchain",
+            "translation": "区块链"
+        },
+        {
+            "word": "smart contract",
+            "translation": "智能合约"
+        },
+        {
+            "word": "cryptocurrency",
+            "translation": "加密货币"
+        },
+        {
+            "word": "bitcoin",
+            "translation": "比特币"
+        },
+        {
+            "word": "ethereum",
+            "translation": "以太坊"
+        },
+        {
+            "word": "consensus",
+            "translation": "共识"
+        },
+        {
+            "word": "mining",
+            "translation": "挖矿"
+        },
+        {
+            "word": "wallet",
+            "translation": "钱包"
+        },
+        {
+            "word": "token",
+            "translation": "代币"
+        },
+        {
+            "word": "NFT",
+            "translation": "非同质化代币"
+        },
+        {
+            "word": "decentralized",
+            "translation": "去中心化"
+        },
+        {
+            "word": "peer-to-peer",
+            "translation": "点对点"
+        },
+        {
+            "word": "distributed ledger",
+            "translation": "分布式账本"
+        },
+        {
+            "word": "hash",
+            "translation": "哈希"
+        },
+        {
+            "word": "proof of work",
+            "translation": "工作量证明"
+        },
+        {
+            "word": "proof of stake",
+            "translation": "权益证明"
+        },
+        {
+            "word": "proof of authority",
+            "translation": "权威证明"
+        },
+        {
+            "word": "consensus algorithm",
+            "translation": "共识算法"
+        },
+        {
+            "word": "fork",
+            "translation": "分叉"
+        },
+        {
+            "word": "hard fork",
+            "translation": "硬分叉"
+        },
+        {
+            "word": "soft fork",
+            "translation": "软分叉"
+        },
+        {
+            "word": "DAO",
+            "translation": "去中心化自治组织"
+        },
+        {
+            "word": "DeFi",
+            "translation": "去中心化金融"
+        },
+        {
+            "word": "dApp",
+            "translation": "去中心化应用"
+        },
+        {
+            "word": "oracle",
+            "translation": "预言机"
+        },
+        {
+            "word": "IPFS",
+            "translation": "星际文件系统"
+        },
+        {
+            "word": "metaverse",
+            "translation": "元宇宙"
+        },
+        {
+            "word": "digital twin",
+            "translation": "数字孪生"
+        },
+        {
+            "word": "augmented reality",
+            "translation": "增强现实"
+        },
+        {
+            "word": "virtual reality",
+            "translation": "虚拟现实"
+        },
+        {
+            "word": "mixed reality",
+            "translation": "混合现实"
+        },
+        {
+            "word": "hologram",
+            "translation": "全息图"
+        },
+        {
+            "word": "spatial computing",
+            "translation": "空间计算"
+        },
+        {
+            "word": "IoT",
+            "translation": "物联网"
+        },
+        {
+            "word": "smart home",
+            "translation": "智能家居"
+        },
+        {
+            "word": "wearable",
+            "translation": "可穿戴设备"
+        },
+        {
+            "word": "sensor",
+            "translation": "传感器"
+        },
+        {
+            "word": "actuator",
+            "translation": "执行器"
+        },
+        {
+            "word": "gateway",
+            "translation": "网关"
+        },
+        {
+            "word": "edge device",
+            "translation": "边缘设备"
+        },
+        {
+            "word": "firmware",
+            "translation": "固件"
+        },
+        {
+            "word": "embedded system",
+            "translation": "嵌入式系统"
+        },
+        {
+            "word": "real-time",
+            "translation": "实时"
+        },
+        {
+            "word": "latency",
+            "translation": "延迟"
+        },
+        {
+            "word": "throughput",
+            "translation": "吞吐量"
+        },
+        {
+            "word": "bandwidth",
+            "translation": "带宽"
+        },
+        {
+            "word": "protocol",
+            "translation": "协议"
+        },
+  
+        {
+            "word": "Bluetooth",
+            "translation": "蓝牙"
+        },
+        {
+            "word": "LPWAN",
+            "translation": "低功耗广域网"
+        },
+        {
+            "word": "NFC",
+            "translation": "近场通信"
+        },
+        {
+            "word": "RFID",
+            "translation": "射频识别"
+        },
+        {
+            "word": "cybersecurity",
+            "translation": "网络安全"
+        },
+        {
+            "word": "vulnerability",
+            "translation": "漏洞"
+        },
+        {
+            "word": "exploit",
+            "translation": "利用"
+        },
+        {
+            "word": "malware",
+            "translation": "恶意软件"
+        },
+        {
+            "word": "virus",
+            "translation": "病毒"
+        },
+        {
+            "word": "worm",
+            "translation": "蠕虫"
+        },
+        {
+            "word": "trojan",
+            "translation": "木马"
+        },
+        {
+            "word": "ransomware",
+            "translation": "勒索软件"
+        },
+        {
+            "word": "spyware",
+            "translation": "间谍软件"
+        },
+        {
+            "word": "adware",
+            "translation": "广告软件"
+        },
+        {
+            "word": "phishing",
+            "translation": "钓鱼"
+        },
+        {
+            "word": "spear phishing",
+            "translation": "鱼叉式钓鱼"
+        },
+        {
+            "word": "whaling",
+            "translation": "鲸钓"
+        },
+        {
+            "word": "social engineering",
+            "translation": "社会工程"
+        },
+        {
+            "word": "brute force",
+            "translation": "暴力破解"
+        },
+        {
+            "word": "dictionary attack",
+            "translation": "字典攻击"
+        },
+        {
+            "word": "rainbow table",
+            "translation": "彩虹表"
+        },
+        {
+            "word": "zero-day",
+            "translation": "零日"
+        },
+        {
+            "word": "patch",
+            "translation": "补丁"
+        },
+        {
+            "word": "update",
+            "translation": "更新"
+        },
+        {
+            "word": "firewall",
+            "translation": "防火墙"
+        },
+        {
+            "word": "intrusion detection",
+            "translation": "入侵检测"
+        }
+]
