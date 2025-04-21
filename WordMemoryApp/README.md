@@ -1,15 +1,15 @@
 # Word Memory Master - Vocabulary Learning Application
 
 ## Table of Contents
-- [Project Purpose]
-- [Features]
-- [Graphical User Interface]
-- [Installation]
+- [Project Purpose](#project-purpose)
+- [Features](#features)
+- [Graphical User Interface](#graphical-user-interface)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Software Development Process]
-- [Technical Specifications]
-- [Team & Contributions]
-- [License]
+- [Software Development Process](#software-development-process)
+- [Technical Specifications](#technical-specifications)
+- [Team & Contributions](#team--contributions)
+- [License](#license)
 
 # Project Purpose
 This application addresses three key challenges in language learning:
