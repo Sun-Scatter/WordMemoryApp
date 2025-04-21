@@ -105,6 +105,7 @@ gantt
 
 ### System Architecture
 WordMemoryApp/
+
 ├── main.py             
 ├── words.json          
 ├── requirements.txt   
